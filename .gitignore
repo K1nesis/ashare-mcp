@@ -18,6 +18,7 @@ dist/
 *.db
 *.log
 .ashare-mcp/
+/data/
 
 # OS
 .DS_Store
